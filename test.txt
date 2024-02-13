@@ -1,0 +1,2 @@
+# This is a test file.
+This project is a demonstration prototype designed to showcase the key functionalities and features of github.
